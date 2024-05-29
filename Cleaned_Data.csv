@@ -1,0 +1,539 @@
+,House_Price,Beds,Baths,Area,Lot,Street,City,Zip_Code,County,State,Url
+0,1499000,5,3,2140,"6,840",6790 Edgewater Ln,Livermore,94551,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/6790-Edgewater-Ln-94551/home/925131
+1,375000,1,1,828,N/A,1087 Murrieta Blvd #349,Livermore,94550,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/1087-Murrieta-Blvd-94550/unit-349/home/1749588
+2,725000,2,1,1134,"4,500",22738 2nd St,Hayward,94541,Alameda Conty,CA,https://www.redfin.com/CA/Hayward/22738-2nd-St-94541/home/1814848
+3,1549000,4,2,1450,"4,500",4474 Macbeth Cir,Fremont,94555,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/4474-Macbeth-Cir-94555/home/2043926
+4,1199000,4,2,1561,"7,811",236 Chalmette Rd,Livermore,94551,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/236-Chalmette-Rd-94551/home/1708554
+5,1195000,3,2.5,1576,"3,000",6248 Jarvis Ave,Newark,94560,Alameda Conty,CA,https://www.redfin.com/CA/Newark/6248-Jarvis-Ave-94560/home/1552752
+6,1799000,3,2,1750,"8,000",37076 2nd,Fremont,94536,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/37076-2nd-St-94536/home/1376949
+7,675000,2,1,1116,"2,450",4981 Fairfax Ave,Oakland,94601,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/4981-Fairfax-Ave-94601/home/944339
+8,1688000,4,2,1340,"5,400",3680 Yorktown Rd,Fremont,94538,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/3680-Yorktown-Rd-94538/home/1116825
+9,1249000,3,2.5,1514,"6,709",5987 Pompei Ter #133,Fremont,94555,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/5987-Pompei-Ter-94555/unit-133/home/1155829
+10,998000,3,2.5,1498,N/A,5317 Port Sailwood Dr,Newark,94560,Alameda Conty,CA,https://www.redfin.com/CA/Newark/5317-Port-Sailwood-Dr-94560/home/1470898
+11,399000,1,1,581,N/A,988 Franklin St #1010,Oakland,94607,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/988-Franklin-St-94607/unit-1010/home/524739
+12,899880,3,2,900,N/A,2 Panoramic Way #301,Berkeley,94704,Alameda Conty,CA,https://www.redfin.com/CA/Berkeley/2-Panoramic-Way-94704/unit-301/home/1843600
+13,397000,0,1,565,N/A,6400 Christie Ave #5413,Emeryville,94608,Alameda Conty,CA,https://www.redfin.com/CA/Emeryville/6400-Christie-Ave-94608/unit-5413/home/1459824
+14,898000,2,2.5,1294,"5,904",35481 Monterra Cir,Union City,94587,Alameda Conty,CA,https://www.redfin.com/CA/Union-City/35481-Monterra-Cir-94587/home/1442251
+15,1095000,3,2,1756,"5,810",1947 Tiffin Rd,Oakland,94602,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/1947-Tiffin-Rd-94602/home/660347
+16,1598000,3,2.5,2465,"5,700",3800 Lakeshore Ave,Oakland,94610,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/3800-Lakeshore-Ave-94610/home/1586502
+17,999800,3,2,1490,N/A,37629 Shelter Rd,Newark,94560,Alameda Conty,CA,https://www.redfin.com/CA/Newark/37629-Shelter-Rd-94560/home/168814727
+18,849900,8,4,5555,"5,555",10926 Bancroft Ave,Oakland,94603,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/10926-Bancroft-Ave-94603/home/572719
+19,570000,1,1,840,N/A,3245 Dublin Blvd #431,Dublin,94568,Alameda Conty,CA,https://www.redfin.com/CA/Dublin/3245-Dublin-Blvd-94568/unit-431/home/1236277
+20,1868000,5,3.5,2851,"4,185",3753 Edgecomb Ct,Dublin,94568,Alameda Conty,CA,https://www.redfin.com/CA/Dublin/3753-Edgecomb-Ct-94568/home/22677503
+21,1089000,3,2.5,1508,N/A,2932 Carmel St,Oakland,94602,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/2932-Carmel-St-94602/home/1964370
+22,825000,2,1,1076,"5,383",3016 Revere Ave,Oakland,94605,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/3016-Revere-Ave-94605/home/1946555
+23,1649900,4,3,2701,"5,450",29840 Cantera Dr,Hayward,94544,Alameda Conty,CA,https://www.redfin.com/CA/Hayward/29840-Cantera-Dr-94544/home/143116813
+24,1490000,5,2.5,2335,"7,350",5295 Bristol Pl,Newark,94560,Alameda Conty,CA,https://www.redfin.com/CA/Newark/5295-Bristol-Pl-94560/home/859759
+25,1899000,5,3,1829,"7,182",41548 Trenouth St,Fremont,94538,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/41548-Trenouth-St-94538/home/1850876
+26,2899950,4,4.5,4451,17859.6,3041 Danielle Ln,Livermore,94550,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/3041-Danielle-Ln-94550/home/2110852
+27,2350000,5,3.5,3343,"9,686",2725 Vine Dr,Livermore,94550,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/2725-Vine-Dr-94550/home/1604795
+28,739000,3,1,1023,"7,068",22859 Arnold Ct,Hayward,94541,Alameda Conty,CA,https://www.redfin.com/CA/Hayward/22859-Arnold-Ct-94541/home/2020252
+29,899900,2,2,1639,N/A,560 Dovecote Ln #1,Livermore,94551,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/560-Dovecote-Ln-94551/unit-1/home/17183438
+30,845000,N/A,N/A,1883,"4,000",2125 38th Ave,Oakland,94601,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/2125-38th-Ave-94601/home/1964552
+31,1095000,3,2,1975,"6,000",3357 Guido St,Oakland,94602,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/3357-Guido-St-94602/home/544332
+32,2495000,4,4.5,3770,26136.0,2803 Rutherford Ct,Livermore,94550,Alameda Conty,CA,https://www.redfin.com/CA/Livermore/2803-Rutherford-Ct-94550/home/12115370
+33,850000,3,3,1424,"9,001",528 E Merle Ct,San Leandro,94577,Alameda Conty,CA,https://www.redfin.com/CA/San-Leandro/528-E-Merle-Ct-94577/home/755945
+34,1599000,3,2.5,1842,"3,037",8302 Enterprise Dr,Newark,94560,Alameda Conty,CA,https://www.redfin.com/CA/Newark/8302-Enterprise-Dr-94560/home/143117197
+35,1200000,3,2,1056,"6,219",39157 Delano Ct,Fremont,94538,Alameda Conty,CA,https://www.redfin.com/CA/Fremont/39157-Delano-Ct-94538/home/604865
+36,1095000,3,2,1694,"9,752",6675 Colton Blvd,Oakland,94611,Alameda Conty,CA,https://www.redfin.com/CA/Oakland/6675-Colton-Blvd-94611/home/1761939
+37,995000,4,2.5,1541,"1,050",3689 Woodbine Way,Pleasanton,94588,Alameda Conty,CA,https://www.redfin.com/CA/Pleasanton/3689-Woodbine-Way-94588/home/1188796
+38,2195000,4,3,2041,12196.8,1910 Yosemite Rd,Berkeley,94707,Alameda Conty,CA,https://www.redfin.com/CA/Berkeley/1910-Yosemite-Rd-94707/home/664195
+39,975000,3,2,1402,"6,395",2911 Wheeler St,Berkeley,94705,Alameda Conty,CA,https://www.redfin.com/CA/Berkeley/2911-Wheeler-St-94705/home/2113542
+40,949888,1,1,1020,N/A,1435 Bay St #2,San Francisco,94123,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1435-Bay-St-94123/unit-2/home/901168
+41,1150000,2,1.5,1050,N/A,1045 York St Unit B,San Francisco,94110,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1045-York-St-94110/unit-B/home/144063919
+42,2495000,3,3.5,2845,N/A,1918 Jackson St,San Francisco,94109,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1918-Jackson-St-94109/home/1466994
+43,1095000,3,2,1700,"3,260",2400 Ulloa St,San Francisco,94116,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2400-Ulloa-St-94116/home/1386526
+44,1995000,4,4,2889,"2,100",649 44th Ave #4226,San Francisco,94121,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/649-44th-Ave-94121/home/1410129
+45,1150000,2,2,1183,N/A,555 4th St #522,San Francisco,94107,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/555-4th-St-94107/unit-522/home/12402181
+46,995000,2,1,987,"1,100",314 Lily St,San Francisco,94102,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/314-Lily-St-94102/home/951976
+47,1695000,2,2,1300,N/A,1601 Larkin St #202,San Francisco,94109,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1601-Larkin-St-94109/unit-202/home/167259032
+48,14750000,4,4.5,5050,"3,815",2870 Pacific Ave,San Francisco,94115,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2870-Pacific-Ave-94115/home/1475915
+49,2995000,3,3,1896,N/A,2785 Jackson St #2,San Francisco,94115,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2785-Jackson-St-94115/unit-2/home/1739578
+50,1995000,3,2,2283,"1,438",1515 11th Ave,San Francisco,94122,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1515-11th-Ave-94122/home/634917
+51,998000,2,2,1097,N/A,338 Potrero Ave #204,San Francisco,94103,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/338-Potrero-Ave-94103/unit-204/home/144064351
+52,1350000,6,4.5,3691,"1,733",3386 - 3388 16th St,San Francisco,94114,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/3386-3388-16th-St-94114/home/190719216
+53,1391000,2,2,1945,N/A,21 Stillman St #5,San Francisco,94107,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/21-Stillman-St-94107/unit-5/home/12396220
+54,799000,2,1,1200,"2,417",801 Randolph St,San Francisco,94132,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/801-Randolph-St-94132/home/1311400
+55,1200000,2,1,950,950,140 Roanoke St,San Francisco,94131,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/140-Roanoke-St-94131/home/1896950
+56,795000,1,1,690,N/A,1440 Broadway #204,San Francisco,94109,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1440-Broadway-94109/unit-204/home/1106812
+57,1780000,6,4,2580,"3,062",144 Locksley Ave,San Francisco,94122,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/144-Locksley-Ave-94122/home/1989489
+58,1400000,3,2,1498,N/A,1055 Mississippi St,San Francisco,94107,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1055-Mississippi-St-94107/home/12421073
+59,10600000,6,3.5,5065,"4,264",207 Cherry St,San Francisco,94118,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/207-Cherry-St-94118/home/2010228
+60,1500000,6,N/A,N/A,"2,330",2773 - 2777 Bryant St,San Francisco,94110,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2773-2777-Bryant-St-94110/home/190717564
+61,1195000,2,1,937,"2,509",258 Surrey St,San Francisco,94131,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/258-Surrey-St-94131/home/811263
+62,1398000,1,2,1350,N/A,301 Mission St Ph 3,San Francisco,94105,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/301-Mission-St-94105/unit-3/home/40142631
+63,779000,2,2,797,N/A,201 Harrison St #710,San Francisco,94105,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-710/home/1993476
+64,1795000,2,2,1192,N/A,580 Hayes St #406,San Francisco,94102,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/580-Hayes-St-94102/unit-406/home/167260951
+65,1300000,3,2,1000,"2,500",255 Ramsell St,San Francisco,94132,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/255-Ramsell-St-94132/home/827842
+66,1100000,3,1,1189,"1,990",37 Sussex St,San Francisco,94131,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/37-Sussex-St-94131/home/938107
+67,795000,4,3,1425,"2,495",133 Lisbon St,San Francisco,94112,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/133-Lisbon-St-94112/home/1849768
+68,1295000,8,4,2930,"1,875",10 Moss St,San Francisco,94103,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/10-Moss-St-94103/home/721360
+69,899000,3,1,1224,"2,100",546 Ellsworth St,San Francisco,94110,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/546-Ellsworth-St-94110/home/1631276
+70,345000,2,1,689,N/A,380 Dolores St #9,San Francisco,94110,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/380-Dolores-St-94110/unit-9/home/190704842
+71,3695000,4,3.5,N/A,"3,123",234 Eureka St,San Francisco,94114,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/234-Eureka-St-94114/home/1183502
+72,4600000,4,2.5,3525,"3,192",2826 Sacramento St,San Francisco,94115,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2826-Sacramento-St-94115/home/1419391
+73,4695000,4,4.5,3296,"2,996",116 10th Ave,San Francisco,94118,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/116-10th-Ave-94118/home/1109958
+74,3000000,0,N/A,4530,"3,122",20 - 22 Church St,San Francisco,94114,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/20-22-CHURCH-ST-94133/home/182117439
+75,2199000,4,3,5950,"2,175",270 - 272 Divisadero St,San Francisco,94123,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/270-Divisadero-St-94117/home/22046226
+76,1495000,3,2,1360,N/A,4317 25th St,San Francisco,94114,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/4317-25th-St-94114/home/927731
+77,1349000,3,2,1286,"2,500",430 Arch St,San Francisco,94132,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/430-Arch-St-94132/home/823430
+78,3450000,3,2.5,2017,N/A,1070 Green St #1202,San Francisco,94133,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/1070-Green-St-94133/unit-1202/home/890323
+79,1095000,2,1.5,1144,N/A,2511 - A Polk St,San Francisco,94109,SanFrancisco Conty,CA,https://www.redfin.com/CA/San-Francisco/2511A-Polk-St-94109/home/190701098
+80,499000,3,2,1000,"5,663",1172 1st St,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/1172-1st-St-94533/home/2160494
+81,725000,5,3,2266,10454.4,886 Christine Dr,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/886-Christine-Dr-95687/home/2138903
+82,525000,2,3,952,"6,970",36 - 30 Woodrow Ave,Vallejo,94590,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/36-Woodrow-Ave-94590/home/2248397
+83,469500,2,1,802,"1,119",703 Capitol St,Vallejo,94590,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/703-Capitol-St-94590/home/2233433
+84,525000,3,2.5,1387,"5,439",174 Nalisty Dr,Vallejo,94590,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/174-Nalisty-Dr-94590/home/2205218
+85,235500,1,1,706,N/A,1457 N Camino Alto #318,Vallejo,94589,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/1457-N-Camino-Alto-94589/unit-318/home/2387744
+86,169900,0,1,441,N/A,1333 N Camino Alto Dr #320,Vallejo,94589,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/1333-N-Camino-Alto-94589/unit-320/home/2392509
+87,863955,5,3,3397,"8,913",457 Baler Cir,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/457-Baler-Cir-95687/home/190723238
+88,619490,3,2,1353,"4,731",3189 Balance Cir,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/3189-Balance-Cir-94533/home/182370457
+89,699000,4,2.5,2357,"3,946",1970 Tamayo Way,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/1970-Tamayo-Way-94533/home/168984320
+90,702698,3,2,2272,"8,743",485 Vanderbilt Dr,Dixon,95620,Solano Conty,CA,https://www.redfin.com/CA/Dixon/485-Vanderbilt-Dr-95620/home/144147429
+91,678874,3,2,2180,"7,228",470 Vanderbilt Dr,Dixon,95620,Solano Conty,CA,https://www.redfin.com/CA/Dixon/470-Vanderbilt-Dr-95620/home/144147464
+92,634000,3,2,2127,"8,015",3140 Clydesdale Way,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/3140-Clydesdale-Way-94533/home/2552518
+93,850137,5,3,3031,"9,259",1535 Base Ct,Dixon,95620,Solano Conty,CA,https://www.redfin.com/CA/Dixon/1535-Base-Ct-95620/home/182371281
+94,902863,4,3,2970,"7,557",1541 Base Ct,Dixon,95620,Solano Conty,CA,https://www.redfin.com/CA/Dixon/1541-Base-Ct-95620/home/182371280
+95,649500,4,2.5,1936,11761.2,124 Toledo St,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/124-Toledo-St-94591/home/2305439
+96,685000,3,2,1263,"5,663",5 Corte Del Sol,Benicia,94510,Solano Conty,CA,https://www.redfin.com/CA/Benicia/5-Corte-del-Sol-94510/home/2373026
+97,890000,3,1,1000,"8,364",180 - 184 E H St,Benicia,94510,Solano Conty,CA,https://www.redfin.com/CA/Benicia/180-E-H-St-94510/home/2379406
+98,635000,3,2,1796,"8,276",4741 Georgia St,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/4741-Georgia-St-94591/home/2345675
+99,735000,4,3,2504,"7,967",3844 Chapparal Dr,Fairfield,94534,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/3844-Chapparal-Dr-94534/home/2548094
+100,235000,2,1,880,N/A,300 E H St #20,Benicia,94510,Solano Conty,CA,https://www.redfin.com/CA/Benicia/300-E-H-St-94510/unit-20/home/147244241
+101,630000,3,2.5,1829,10890.0,178 Chatham Pl,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/178-Chatham-Pl-94591/home/2320587
+102,389000,2,1.5,1308,"6,098",208 Sacramento St,Suisun City,94585,Solano Conty,CA,https://www.redfin.com/CA/Suisun-City/208-Sacramento-St-94585/home/2167948
+103,339000,2,1.5,1100,N/A,165 Oddstad Dr #7,Vallejo,94589,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/165-Oddstad-Dr-94589/unit-7/home/2392864
+104,689000,3,2.5,1525,"8,499",266 Sungate Ct,Vacaville,95688,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/266-Sungate-Ct-95688/home/2464505
+105,579000,4,2,1512,"5,662",266 Edwin Dr,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/266-Edwin-Dr-95687/home/2493589
+106,675000,4,2.5,1796,"7,022",237 Wexford Ln,Vacaville,95688,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/237-Wexford-Ln-95688/home/2481715
+107,599999,3,2,6098,"6,098",103 Crescent Ct,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/103-Crescent-Ct-94591/home/2286167
+108,514900,3,2,1088,"6,534",1945 Tanglewood Ln,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/1945-Tanglewood-Ln-95687/home/2479874
+109,689000,4,3,1753,10018.8,429 Buck Ave,Vacaville,95688,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/429-Buck-Ave-95688/home/2455114
+110,475000,4,2.5,1702,N/A,702 Daniels Ave,Vallejo,94590,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/702-Daniels-Ave-94590/home/2617569
+111,699000,4,2,1585,N/A,227 Carter St,Vallejo,94590,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/227-Carter-St-94590/home/12225798
+112,639990,4,2.5,2290,"2,808",2524 Cyan Dr #9,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/2524-Cyan-Dr-94533/unit-9/home/190717023
+113,649990,3,2,2206,N/A,2430 Shore Vis #4832,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/2430-Shore-Vis-94533/unit-4832/home/190716666
+114,1400000,3,3,2300,29620.8,618 Admiral Callaghan Ln,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/618-Admiral-Callaghan-Ln-94591/home/2283597
+115,550000,3,3,1438,"1,443",511 Timbercove St #4,Vallejo,94591,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/511-Timbercove-St-94591/unit-4/home/2410304
+116,649000,3,2.5,1917,"2,695",1594 Luminate Ln,Fairfield,94533,Solano Conty,CA,https://www.redfin.com/CA/Fairfield/1594-Luminate-Ln-94533/home/182370235
+117,600000,4,1.5,1373,"5,227",133 Larsen Cir,Vallejo,94589,Solano Conty,CA,https://www.redfin.com/CA/Vallejo/133-Larsen-Cir-94589/home/2129677
+118,699800,4,3,2221,"8,028",742 Fox Hollow Way,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/742-Fox-Hollow-Way-95687/home/2507104
+119,669000,3,2.5,1827,"5,371",1000 Wisteria Ct,Vacaville,95687,Solano Conty,CA,https://www.redfin.com/CA/Vacaville/1000-Wisteria-Ct-95687/home/114040570
+120,495000,3,1,1406,"5,005",913 W 14th St,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/913-W-14th-St-94509/home/597580
+121,750000,3,2.5,1488,N/A,49 Mozden Ln,Pleasant Hill,94523,Contra Costa Conty,CA,https://www.redfin.com/CA/Pleasant-Hill/49-Mozden-Ln-94523/home/1867886
+122,939000,4,2,2236,"8,000",1895 Risdon Rd,Concord,94518,Contra Costa Conty,CA,https://www.redfin.com/CA/Concord/1895-Risdon-Rd-94518/home/1921805
+123,799000,4,3.5,2065,N/A,809 Tierney Pl,Martinez,94553,Contra Costa Conty,CA,https://www.redfin.com/CA/Martinez/809-Tierney-Pl-94553/home/142979072
+124,755000,5,3,3392,"5,184",2056 Tupelo Way,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/2056-Tupelo-Way-94509/home/1660576
+125,2699800,5,3,4074,"7,800",3683 Deer Trail Dr,Danville,94506,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/3683-Deer-Trail-Dr-94506/home/1400882
+126,3795000,4,3.5,3487,15681.6,24 Mira Loma Ln,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/24-Mira-Loma-Ln-94526/home/1695798
+127,689000,3,3,1251,N/A,2110 Sand Dollar Dr,Richmond,94804,Contra Costa Conty,CA,https://www.redfin.com/CA/Richmond/2110-Sand-Dollar-Dr-94804/home/1464887
+128,1650000,3,3.5,2794,"5,950",258 Yale Ave,Kensington,94708,Contra Costa Conty,CA,https://www.redfin.com/CA/Kensington/258-Yale-Ave-94708/home/1890677
+129,649000,2,2,959,N/A,165 Lakeshore Ct,Richmond,94804,Contra Costa Conty,CA,https://www.redfin.com/CA/Richmond/165-Lakeshore-Ct-94804/home/12128739
+130,699000,3,2.5,1999,"5,160",213 Whispering Oaks Ct,Brentwood,94513,Contra Costa Conty,CA,https://www.redfin.com/CA/Brentwood/213-Whispering-Oaks-Ct-94513/home/930267
+131,4999000,4,3.5,5150,153331.2,575 Highland Dr,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/575-Highland-Dr-94526/home/1277288
+132,1488000,4,2.5,3005,19166.4,1970 Rapallo Ct,Brentwood,94513,Contra Costa Conty,CA,https://www.redfin.com/CA/Brentwood/1970-Rapallo-Ct-94513/home/1635286
+133,849000,3,2,1322,"5,000",1218 Lawrence St,El Cerrito,94530,Contra Costa Conty,CA,https://www.redfin.com/CA/El-Cerrito/1218-Lawrence-St-94530/home/1933778
+134,1795000,5,3.5,3150,11325.6,1036 Leneve Pl,El Cerrito,94530,Contra Costa Conty,CA,https://www.redfin.com/CA/El-Cerrito/1036-Leneve-Pl-94530/home/187955854
+135,720000,4,2,1416,"5,304",4041 Camino Vinedo,Martinez,94553,Contra Costa Conty,CA,https://www.redfin.com/CA/Martinez/4041-Camino-Vinedo-94553/home/1915126
+136,3795000,5,5.5,4400,21780.0,110 Wayland Ln,Alamo,94507,Contra Costa Conty,CA,https://www.redfin.com/CA/Alamo/110-Wayland-Ln-94507/home/1773889
+137,1950000,4,2.5,2362,10454.4,53 Jamaica Dr,San Ramon,94582,Contra Costa Conty,CA,https://www.redfin.com/CA/San-Ramon/53-Jamaica-Dr-94582/home/957421
+138,449978,1,1,474,N/A,120 Reflections Dr #26,San Ramon,94583,Contra Costa Conty,CA,https://www.redfin.com/CA/San-Ramon/120-Reflections-Dr-94583/unit-26/home/12129264
+139,1279000,3,2,1619,"3,360",667 Doral Dr,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/667-Doral-Dr-94526/home/1050901
+140,530000,3,2,1210,"7,670",1220 Miller St,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/1220-Miller-St-94509/home/1807346
+141,2798000,5,4.5,4060,"8,353",2772 Paige Way,San Ramon,94582,Contra Costa Conty,CA,https://www.redfin.com/CA/San-Ramon/2772-Paige-Way-94582/home/12123903
+142,725000,4,3,2305,"6,940",4485 Spire St,Antioch,94531,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/4485-Spire-St-94531/home/23099717
+143,1850000,5,3,2629,10018.8,31 Wiley Ct,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/31-Wiley-Ct-94526/home/1412662
+144,299000,1,1,592,N/A,1133 Meadow Ln #62,Concord,94520,Contra Costa Conty,CA,https://www.redfin.com/CA/Concord/1133-Meadow-Ln-94520/unit-62/home/746212
+145,2198000,5,2,2410,22215.6,1611 Ramona Way,Alamo,94507,Contra Costa Conty,CA,https://www.redfin.com/CA/Alamo/1611-Ramona-Way-94507/home/1856687
+146,1299950,5,4,4191,11325.6,601 Campania Ct,Brentwood,94513,Contra Costa Conty,CA,https://www.redfin.com/CA/Brentwood/601-Campania-Ct-94513/home/928786
+147,1195000,2,2,1382,10018.8,117 Vista Del Diablo,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/117-Vista-del-Diablo-94526/home/906478
+148,610000,3,2,1866,"6,550",4125 Jarosite Ct,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/4125-Jarosite-Ct-94509/home/1420047
+149,3399000,5,4,3806,23958.0,2123 Walnut Blvd,Walnut Creek,94597,Contra Costa Conty,CA,https://www.redfin.com/CA/Walnut-Creek/2123-Walnut-Blvd-94597/home/95952751
+150,775000,4,3,2701,"8,895",4436 Pronghorn Ct,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/4436-Pronghorn-Ct-94509/home/1768192
+151,1995000,6,3,2614,12196.8,632 Bridgewater Cir,Danville,94526,Contra Costa Conty,CA,https://www.redfin.com/CA/Danville/632-Bridgewater-Cir-94526/home/1505087
+152,655000,4,2,1770,"6,708",5147 Tehachapi Way,Antioch,94531,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/5147-Tehachapi-Way-94531/home/589588
+153,3880000,6,6,8000,225205.2,1080 Finley Rd,Pleasanton,94588,Contra Costa Conty,CA,https://www.redfin.com/CA/Pleasanton/1080-Finley-Rd-94588/home/607366
+154,925000,5,3,2386,"4,036",2557 Modena Dr,Pittsburg,94565,Contra Costa Conty,CA,https://www.redfin.com/CA/Pittsburg/2557-Modena-Dr-94565/home/167204924
+155,669000,5,3,2053,"8,040",3104 Sunflower Dr,Antioch,94531,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/3104-Sunflower-Dr-94531/home/1851991
+156,799458,5,3,2544,"5,298",4641 Ranch Ln,Antioch,94531,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/4641-Ranch-Pl-94531/home/190721333
+157,300000,2,2,944,N/A,2405 Horizon Ln #132,Antioch,94509,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/2405-Horizon-Ln-94509/unit-132/home/624682
+158,3099000,5,4.5,4251,"5,122",6081 Laurelspur Loop,San Ramon,94582,Contra Costa Conty,CA,https://www.redfin.com/CA/San-Ramon/6081-Laurelspur-Loop-94582/home/56909513
+159,671226,3,2,1413,"5,407",4637 Ranch Ln,Antioch,94531,Contra Costa Conty,CA,https://www.redfin.com/CA/Antioch/4637-Ranch-Pl-94531/home/190720990
+160,650000,3,2.5,1460,N/A,9 Oak Crst Unit Ct D,Novato,94947,Marin Conty,CA,https://www.redfin.com/CA/Novato/9-Oak-Crest-Ct-94947/unit-D/home/1122123
+161,2488888,4,3,3172,"9,000",43 Baywood Ter,San Rafael,94901,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/43-Baywood-Ter-94901/home/814253
+162,1375000,3,3,2246,"9,348",176 Corte Anita,Greenbrae,94904,Marin Conty,CA,https://www.redfin.com/CA/Greenbrae/176-Corte-Anita-94904/home/1020045
+163,649000,1,1,815,N/A,505 Larkspur Plaza Dr Unit 8A,Larkspur,94939,Marin Conty,CA,https://www.redfin.com/CA/Larkspur/505-Larkspur-Plaza-Dr-94939/unit-8A/home/1404933
+164,1695000,4,3,2472,11325.6,130 Tioga Ln,Greenbrae,94904,Marin Conty,CA,https://www.redfin.com/CA/Greenbrae/130-Tioga-Ln-94904/home/628841
+165,1495000,3,2,1665,20473.2,12 Alderwood Way,San Rafael,94901,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/12-Alderwood-Way-94901/home/1269269
+166,1100000,2,2,1440,"8,398",170 Bayview Dr,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/170-Bayview-Dr-94941/home/1138873
+167,1275000,3,2,1516,10890.0,408 Meadow Way,San Geronimo,94963,Marin Conty,CA,https://www.redfin.com/CA/San-Geronimo/408-Meadow-Way-94963/home/868408
+168,1988000,5,3,2759,37897.2,483 San Andreas Dr,Novato,94945,Marin Conty,CA,https://www.redfin.com/CA/Novato/483-San-Andreas-Dr-94945/home/822128
+169,779000,3,2.5,1516,N/A,121 Sylvia Way,San Rafael,94903,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/121-Sylvia-Way-94903/home/1161234
+170,1395000,4,3,2226,"4,008",105 Boxwood Dr,San Rafael,94903,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/105-Boxwood-Dr-94903/home/2099671
+171,1425000,2,1.5,2880,"9,251",19 - 23 Shannon Ct,Novato,94949,Marin Conty,CA,https://www.redfin.com/CA/Novato/19-Shannon-Ct-94949/home/1313366
+172,2790000,3,3,2068,"7,919",6 Las Palmas Way,Tiburon,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/6-Las-Palmas-Way-94920/home/995888
+173,1295000,3,2,1628,10454.4,6 Corte Capistrano,San Rafael,94903,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/6-Corte-Capistrano-94903/home/696422
+174,2195000,4,2.5,2881,12632.4,31 Lagoon Rd,San Rafael,94901,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/31-Lagoon-Rd-94901/home/782272
+175,1575000,3,2,1540,N/A,239 Eliseo Dr,Greenbrae,94904,Marin Conty,CA,https://www.redfin.com/CA/Greenbrae/239-Eliseo-Dr-94904/home/1354366
+176,800000,2,1,1006,13068.0,723 Redwood Rd,San Anselmo,94960,Marin Conty,CA,https://www.redfin.com/CA/San-Anselmo/723-Redwood-Rd-94960/home/782836
+177,540000,2,2,1118,N/A,83 Scottsdale Way,Novato,94947,Marin Conty,CA,https://www.redfin.com/CA/Novato/83-Scottsdale-Way-94947/home/1174291
+178,2595000,4,3.5,2819,"5,371",136 Summit Dr,Corte Madera,94925,Marin Conty,CA,https://www.redfin.com/CA/Corte-Madera/136-Summit-Dr-94925/home/793999
+179,18000000,5,4.5,5775,31363.2,431 E Strawberry Dr,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/431-E-Strawberry-Dr-94941/home/734784
+180,1499000,2,2,1384,N/A,34 Lagoon Vis,Belvedere,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/34-Lagoon-Vis-94920/home/1066775
+181,1595000,3,2.5,1831,"5,750",343 S Morning Sun Ave,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/343-S-Morning-Sun-Ave-94941/home/901106
+182,1375000,4,2.5,2157,"3,563",27 Mildenhall St,Novato,94949,Marin Conty,CA,https://www.redfin.com/CA/Novato/27-Mildenhall-St-94949/home/1343575
+183,1749000,2,1,990,"3,851",74 Madrone Ave,Larkspur,94939,Marin Conty,CA,https://www.redfin.com/CA/Larkspur/74-Madrone-Ave-94939/home/1282132
+184,719000,3,2.5,1704,"1,452",944 Arlene Way,Novato,94947,Marin Conty,CA,https://www.redfin.com/CA/Novato/944-Arlene-Way-94947/home/684405
+185,2499000,5,3,3492,14810.4,120 Kinross Dr,San Rafael,94901,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/120-Kinross-Dr-94901/home/865224
+186,1249000,4,3.5,2566,13068.0,50 Robinhood Dr,Novato,94945,Marin Conty,CA,https://www.redfin.com/CA/Novato/50-Robinhood-Dr-94945/home/659747
+187,2795000,4,3,2046,"6,399",80 Summit Ave,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/80-Summit-Ave-94941/home/1201289
+188,1800000,3,2,2022,32234.4,160 Ralston Ave,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/160-Ralston-Ave-94941/home/1295145
+189,889000,3,2.5,1440,N/A,112 Forest Ln,San Rafael,94903,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/112-Forest-Ln-94903/home/955901
+190,2695000,5,2.5,2185,"8,999",1 Mount Darwin Ct,San Rafael,94903,Marin Conty,CA,https://www.redfin.com/CA/San-Rafael/1-Mount-Darwin-Ct-94903/home/1200461
+191,1295000,2,1,912,N/A,25 Corinthian Ct #24,Tiburon,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/25-Corinthian-Ct-94920/unit-24/home/739247
+192,9995000,6,5.5,5565,41817.6,96 Laurel Grove Ave,Ross,94957,Marin Conty,CA,https://www.redfin.com/CA/Ross/96-Laurel-Grove-Ave-94957/home/1071523
+193,1995000,4,2,2378,14374.8,4376 Paradise Dr,Tiburon,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/4376-Paradise-Dr-94920/home/1299322
+194,1950000,8,4,3586,"7,500",1340 Sir Francis Drake Blvd,San Anselmo,94960,Marin Conty,CA,https://www.redfin.com/CA/San-Anselmo/1340-Sir-Francis-Drake-Blvd-94960/home/1352690
+195,3295000,3,2.5,1642,"8,307",329 San Rafael Ave,Tiburon,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/329-San-Rafael-Ave-94920/home/1005327
+196,924000,2,1,920,"9,200",97 Ridge Rd,San Anselmo,94960,Marin Conty,CA,https://www.redfin.com/CA/San-Anselmo/97-Ridge-Rd-94960/home/1179708
+197,1150000,2,2.5,1472,N/A,80 Marinero Cir,Tiburon,94920,Marin Conty,CA,https://www.redfin.com/CA/Belvedere-Tiburon/80-Marinero-Cir-94920/home/780050
+198,2950000,2,3.5,5580,662112.0,11 - 7 Via Del Sol,Nicasio,94946,Marin Conty,CA,https://www.redfin.com/CA/Nicasio/11-Via-del-Sol-94946/home/739661
+199,2300000,3,3,2635,16552.8,484 Panoramic Hwy,Mill Valley,94941,Marin Conty,CA,https://www.redfin.com/CA/Mill-Valley/484-Panoramic-Hwy-94941/home/1410273
+200,1499000,4,3.5,1750,"6,350",3251 Fasman Dr,San Bruno,94066,sanMateo Conty,CA,https://www.redfin.com/CA/San-Bruno/3251-Fasman-Dr-94066/home/627728
+201,1288000,5,4,2860,"3,200",381 Huntington Ave,San Bruno,94066,sanMateo Conty,CA,https://www.redfin.com/CA/San-Bruno/381-Huntington-Ave-94066/home/1683073
+202,19900000,6,8,8470,65340.0,961 High Rd,Woodside,94062,sanMateo Conty,CA,https://www.redfin.com/CA/Woodside/961-High-Rd-94062/home/1050655
+203,2695000,8,8,8866,"8,755",168 Santa Clara Ave,San Bruno,94066,sanMateo Conty,CA,https://www.redfin.com/CA/San-Bruno/168-Santa-Clara-Ave-94066/home/1431250
+204,1995000,3,2.5,2110,"5,000",463 4th St,Montara,94037,sanMateo Conty,CA,https://www.redfin.com/CA/Montara/463-4th-St-94037/home/728313
+205,1528888,3,2.5,1610,739648.8,1 Brigantine Ln,Redwood City,94065,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/1-Brigantine-Ln-94065/home/1148297
+206,1398000,2,2.5,1451,N/A,900 Live Oak Way #904,Belmont,94002,sanMateo Conty,CA,https://www.redfin.com/CA/Belmont/900-Live-Oak-Way-94002/unit-904/home/1956327
+207,1298000,3,2.5,1670,"2,988",10 Jacqueline Ct,Daly City,94014,sanMateo Conty,CA,https://www.redfin.com/CA/Daly-City/10-Jacqueline-Ct-94014/home/1354987
+208,2390000,4,3,2165,"4,450",2519 Lincoln Ave,Belmont,94002,sanMateo Conty,CA,https://www.redfin.com/CA/Belmont/2519-Lincoln-Ave-94002/home/761522
+209,2250000,4,3,2045,17859.6,342 Lakeview Way,Redwood City,94062,sanMateo Conty,CA,https://www.redfin.com/CA/Emerald-Hills/342-Lakeview-Way-94062/home/1936254
+210,2995000,4,3.5,2476,"8,500",420-422 Ferdinand,El Granada,94018,sanMateo Conty,CA,https://www.redfin.com/CA/El-Granada/420-Ferdinand-Ave-94018/home/190725432
+211,2850000,5,3.5,3640,12632.4,1515 Winding Way,Belmont,94002,sanMateo Conty,CA,https://www.redfin.com/CA/Belmont/1515-Winding-Way-94002/home/1752496
+212,2148000,3,2,1380,"6,136",1411 Cordilleras Ave,San Carlos,94070,sanMateo Conty,CA,https://www.redfin.com/CA/San-Carlos/1411-Cordilleras-Ave-94070/home/1892113
+213,2500000,N/A,N/A,3052,"5,100",236 Anita Rd,Burlingame,94010,sanMateo Conty,CA,https://www.redfin.com/CA/Burlingame/236-Anita-Rd-94010/home/1514188
+214,4250000,12,10,11595,10454.4,1665 Sixth Ave,Belmont,94002,sanMateo Conty,CA,https://www.redfin.com/CA/Belmont/1665-Sixth-Ave-94002/home/1952158
+215,35000000,N/A,N/A,N/A,N/A,100 Shamrock Ranch Rd,Pacifica,94044,sanMateo Conty,CA,https://www.redfin.com/CA/Pacifica/100-Shamrock-Ranch-Rd-94044/home/40100426
+216,1698000,N/A,N/A,2555,"5,880",1479 Hess Rd,Redwood City,94061,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/1479-Hess-Rd-94061/home/1936127
+217,998000,3,1,1199,"3,300",79 Eaton Ave,Daly City,94015,sanMateo Conty,CA,https://www.redfin.com/CA/Daly-City/79-Eaton-Ave-94015/home/1640161
+218,400000,N/A,N/A,N/A,N/A,0 Cedar St,Montara,94037,sanMateo Conty,CA,https://www.redfin.com/CA/Montara/Cedar-St-94037/home/21838997
+219,1150000,4,2,720,"3,000",315 Bellevue Ave,Daly City,94014,sanMateo Conty,CA,https://www.redfin.com/CA/Daly-City/315-Bellevue-Ave-94014/home/2054698
+220,6495000,5,4,4960,24393.6,2500 Summit Dr,Hillsborough,94010,sanMateo Conty,CA,https://www.redfin.com/CA/Hillsborough/2500-Summit-Dr-94010/home/1962714
+221,1499000,2,2,1430,"1,120",142 Sand Hill Cir,Menlo Park,94025,sanMateo Conty,CA,https://www.redfin.com/CA/Menlo-Park/142-Sand-Hill-Cir-94025/home/1135890
+222,399000,0,1,490,N/A,5211 Shelter Creek Ln,San Bruno,94066,sanMateo Conty,CA,https://www.redfin.com/CA/San-Bruno/5211-Shelter-Creek-Ln-94066/home/1985400
+223,1188000,3,2,1520,"4,356",462 Higate Dr,Daly City,94015,sanMateo Conty,CA,https://www.redfin.com/CA/Daly-City/462-Higate-Dr-94015/home/1860190
+224,899000,4,2,1230,"6,300",2689 Gonzaga St,East Palo Alto,94303,sanMateo Conty,CA,https://www.redfin.com/CA/East-Palo-Alto/2689-Gonzaga-St-94303/home/1882406
+225,1799000,3,2,1810,"5,500",1561 De Anza Blvd,San Mateo,94403,sanMateo Conty,CA,https://www.redfin.com/CA/San-Mateo/1561-De-Anza-Blvd-94403/home/1405574
+226,825000,2,1,1062,N/A,26 Pelican Ln,Redwood Shores,94065,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/26-Pelican-Ln-94065/home/1867619
+227,5500000,4,8,4310,18730.8,220 N San Mateo Dr,San Mateo,94401,sanMateo Conty,CA,https://www.redfin.com/CA/San-Mateo/220-N-San-Mateo-Dr-94401/home/699124
+228,995000,3,2,1000,12632.4,14 Pope Rd,La Honda,94020,sanMateo Conty,CA,https://www.redfin.com/CA/La-Honda/14-Pope-Rd-94020/home/1618003
+229,1450000,2,1,1060,"5,985",83 Loma Vista Dr,Burlingame,94010,sanMateo Conty,CA,https://www.redfin.com/CA/Burlingame/83-Loma-Vista-Dr-94010/home/1843577
+230,1299000,3,2.5,1268,"6,600",10 N Humboldt St,San Mateo,94401,sanMateo Conty,CA,https://www.redfin.com/CA/San-Mateo/10-N-Humboldt-St-94401/home/703898
+231,1889999,3,2,1410,"5,900",32 Shaw Ct,Redwood City,94061,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/32-Shaw-Ct-94061/home/1823619
+232,9980000,5,5,5076,40510.8,76 Fairview Ave,Atherton,94027,sanMateo Conty,CA,https://www.redfin.com/CA/Atherton/76-Fairview-Ave-94027/home/883721
+233,1780000,3,2,1354,"6,000",3335 Page St,Redwood City,94063,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/3335-Page-St-94063/home/1915810
+234,1850000,4,3,2050,"4,950",2320 Princeton Dr,San Bruno,94066,sanMateo Conty,CA,https://www.redfin.com/CA/San-Bruno/2320-Princeton-Dr-94066/home/1120335
+235,2999000,4,2.5,2360,"7,140",2449 Hallmark Dr,Belmont,94002,sanMateo Conty,CA,https://www.redfin.com/CA/Belmont/2449-Hallmark-Dr-94002/home/2052306
+236,688000,3,2,1473,N/A,1 Appian Way Unit 715-6,South San Francisco,94080,sanMateo Conty,CA,https://www.redfin.com/CA/South-San-Francisco/1-Appian-Way-94080/unit-715-6/home/948734
+237,36000000,5,8,11745,46173.6,112 Almendral Ave,Atherton,94027,sanMateo Conty,CA,https://www.redfin.com/CA/Atherton/112-Almendral-Ave-94027/home/854187
+238,1689000,5,3,3274,"6,050",343 N Eldorado St,San Mateo,94401,sanMateo Conty,CA,https://www.redfin.com/CA/San-Mateo/343-N-Eldorado-St-94401/home/699269
+239,1628000,4,2,1850,"3,990",1179-1181 King St,Redwood City,94061,sanMateo Conty,CA,https://www.redfin.com/CA/Redwood-City/1179-King-St-94061/home/2047679
+240,1488800,3,2.5,1871,N/A,834 Julian Ter #4,Sunnyvale,94085,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/834-Julian-Ter-94085/unit-4/home/172929998
+241,1988000,3,2,1153,"6,098",2193 Tamie Ln,San Jose,95130,santaClara County,CA,https://www.redfin.com/CA/San-Jose/2193-Tamie-Ln-95130/home/1129101
+242,2995000,4,2.5,3891,15681.6,769 Harry Rd,San Jose,95120,santaClara County,CA,https://www.redfin.com/CA/San-Jose/769-Harry-Rd-95120/home/705922
+243,998000,2,2.5,1297,N/A,1126 Pepper Rd,San Jose,95133,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1126-Pepper-Rd-95133/home/112868586
+244,1649000,4,2,1791,"7,841",6514 Hercus Ct,San Jose,95119,santaClara County,CA,https://www.redfin.com/CA/San-Jose/6514-Hercus-Ct-95119/home/1481783
+245,2375000,5,3.5,4457,60112.8,15110 Watsonville Rd,Morgan Hill,95037,santaClara County,CA,https://www.redfin.com/CA/Morgan-Hill/15110-Watsonville-Rd-95037/home/1604330
+246,1848000,4,2.5,1989,"3,920",3466 Chemin De Riviere,San Jose,95148,santaClara County,CA,https://www.redfin.com/CA/San-Jose/3466-Chemin-de-Riviere-95148/home/654907
+247,745000,3,2.5,1169,N/A,160 Rancho Manor Ct,San Jose,95111,santaClara County,CA,https://www.redfin.com/CA/San-Jose/160-Rancho-Manor-Ct-95111/home/900055
+248,1188800,3,1,1100,16552.8,21516 Old Mine Rd,Los Gatos,95033,santaClara County,CA,https://www.redfin.com/CA/Los-Gatos/21516-Old-Mine-Rd-95033/home/917233
+249,778000,3,2,1143,N/A,1045 N Abbott Ave,Milpitas,95035,santaClara County,CA,https://www.redfin.com/CA/Milpitas/1045-N-Abbott-Ave-95035/home/551646
+250,799888,2,2,992,N/A,82 Bear Claw Way,San Jose,95136,santaClara County,CA,https://www.redfin.com/CA/San-Jose/82-Bear-Claw-Way-95136/home/1408737
+251,1258000,3,3.5,1895,N/A,1971 Nevets Ln,San Jose,95133,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1971-Nevets-Ln-95133/home/167218824
+252,1250000,7,2,1908,"6,098",610 Drake St,San Jose,95125,santaClara County,CA,https://www.redfin.com/CA/San-Jose/610-Drake-St-95125/home/1642371
+253,4275000,4,2.5,2514,10454.4,1240 LISA Ln,Los Altos,94024,santaClara County,CA,https://www.redfin.com/CA/Los-Altos/1240-Lisa-Ln-94024/home/1317113
+254,1090000,3,3.5,1718,N/A,1092 Pear Orchard Dr,San Jose,95131,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1092-Pear-Orchard-Dr-95131/home/143043333
+255,1399999,5,3,2304,"9,583",17080 Piedmont Ct,Morgan Hill,95037,santaClara County,CA,https://www.redfin.com/CA/Morgan-Hill/17080-Piedmont-Ct-95037/home/761813
+256,2795000,3,1,1414,"6,534",779 Coastland Dr,Palo Alto,94303,santaClara County,CA,https://www.redfin.com/CA/Palo-Alto/779-Coastland-Dr-94303/home/1222368
+257,4295000,3,2,2936,11761.2,488 Yerba Buena Ave,Los Altos,94022,santaClara County,CA,https://www.redfin.com/CA/Los-Altos/488-Yerba-Buena-Ave-94022/home/190726131
+258,395000,2,2,1860,N/A,275 Burnett Avenue 57,Morgan Hill,95037,santaClara County,CA,https://www.redfin.com/CA/Morgan-Hill/275-Burnett-Ave-95037/unit-57/home/1037857
+259,1198000,3,2.5,1651,N/A,1820 Glacier Bay Ter,San Jose,95131,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1820-Glacier-Bay-Ter-95131/home/1260502
+260,250000,2,2,1344,N/A,500 W 10th St #34,Gilroy,95020,santaClara County,CA,https://www.redfin.com/CA/Gilroy/500-W-10th-St-95020/unit-34/home/61404756
+261,1598000,3,2,1389,"6,000",2404 Lindbergh Ave,San Jose,95128,santaClara County,CA,https://www.redfin.com/CA/San-Jose/2404-Lindbergh-Ave-95128/home/1189860
+262,2400000,5,4.5,3397,16988.4,333 Crest Dr,San Jose,95127,santaClara County,CA,https://www.redfin.com/CA/San-Jose/333-Crest-Dr-95127/home/161056838
+263,1477267,3,3,1917,N/A,369 Lundy Pl,Milpitas,95035,santaClara County,CA,https://www.redfin.com/CA/Milpitas/369-Lundy-Pl-95035/home/190725266
+264,1198000,3,3,1941,N/A,2027 Mahuron Cir,San Jose,95133,santaClara County,CA,https://www.redfin.com/CA/San-Jose/2027-Mahuron-Cir-95133/home/143043586
+265,2498000,5,3,2430,10018.8,2408 Fairoak Ct,San Jose,95125,santaClara County,CA,https://www.redfin.com/CA/San-Jose/2408-Fairoak-Ct-95125/home/852670
+266,899000,2,2,1130,N/A,1879 Midnight Cir,San Jose,95133,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1879-Midnight-Cir-95133/home/143042040
+267,1998000,5,3,1554,"7,000",4340 Linwood Dr,San Jose,95124,santaClara County,CA,https://www.redfin.com/CA/San-Jose/4340-Linwood-Dr-95124/home/756768
+268,1389000,3,2,1543,"7,665",340 Mustang St,San Jose,95123,santaClara County,CA,https://www.redfin.com/CA/San-Jose/340-Mustang-St-95123/home/1679679
+269,1498000,2,2,1192,N/A,1255 W Fremont Ter,Sunnyvale,94087,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/1255-W-Fremont-Ter-94087/home/1439973
+270,1525000,4,2,1727,"5,663",6231 Sager Way,San Jose,95123,santaClara County,CA,https://www.redfin.com/CA/San-Jose/6231-Sager-Way-95123/home/1110809
+271,1199000,3,2,1165,"4,792",3339 San Marino Ave,San Jose,95127,santaClara County,CA,https://www.redfin.com/CA/San-Jose/3339-San-Marino-Ave-95127/home/1780630
+272,2398000,4,2.5,1977,"6,000",941 Exmoor Way,Sunnyvale,94087,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/941-Exmoor-Way-94087/home/838412
+273,3750000,5,3,3193,10890.0,1273 Coolidge Ave,San Jose,95125,santaClara County,CA,https://www.redfin.com/CA/San-Jose/1273-Coolidge-Ave-95125/home/839179
+274,868000,2,2,1108,N/A,600 S Abel St #411,Milpitas,95035,santaClara County,CA,https://www.redfin.com/CA/Milpitas/600-S-Abel-St-95035/unit-411/home/167191941
+275,2488000,5,3,2070,"5,820",241 Gabilan Ave,Sunnyvale,94086,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/241-Gabilan-Ave-94086/home/1392350
+276,2299000,3,2,1768,"6,098",1568 WAXWING Ave,Sunnyvale,94087,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/1568-Waxwing-Ave-94087/home/633873
+277,1150000,2,2,1206,N/A,20743 Celeste Cir,Cupertino,95014,santaClara County,CA,https://www.redfin.com/CA/Cupertino/20743-Celeste-Cir-95014/home/1200647
+278,6980000,5,5.5,6038,16988.4,15866 Mina Way,Saratoga,95070,santaClara County,CA,https://www.redfin.com/CA/Saratoga/15866-Mina-Way-95070/home/833238
+279,2458000,3,2,1555,"6,098",1448 Dove Ln,Sunnyvale,94087,santaClara County,CA,https://www.redfin.com/CA/Sunnyvale/1448-Dove-Ln-94087/home/1400934
+280,1888000,2,2,1330,"7,192",1604 Madrona Ave,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/Saint-Helena/1604-Madrona-Ave-94574/home/2171720
+281,525000,3,2,1776,"7,754",1629 Hillview Pl,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/Saint-Helena/1629-Hillview-Pl-94574/home/12193920
+282,1050000,3,2.5,2181,"4,260",40 Blackberry Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/40-Blackberry-Dr-94558/home/12205270
+283,7450000,4,7.5,5182,118483.2,3219 Vichy Ave,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/3219-Vichy-Ave-94558/home/12214490
+284,1200000,3,2,1600,N/A,2964 - 541 Devita Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2964-Devita-Dr-94558/home/12188653
+285,935000,3,2.5,1925,"4,792",4446 Stillson St,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/4446-Stillson-St-94558/home/12191921
+286,999000,4,3,1950,"6,107",4118 Linda Vista Ave,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/4118-Linda-Vista-Ave-94558/home/12192190
+287,624888,3,2,1628,10890.0,33 Zinnia Ln,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/33-Zinnia-Ln-94558/home/12200897
+288,2850000,4,4,2250,279219.6,3093 Old Lawley Toll Rd,Calistoga,94515,Napa County,CA,https://www.redfin.com/CA/Calistoga/3093-Old-Lawley-Toll-Rd-94515/home/12197667
+289,3595000,4,5,4195,11761.2,10 Pascale Ct,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/10-Pascale-Ct-94558/home/22607636
+290,1585000,3,2.5,2188,"6,054",1395 Grove Ct,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/Saint-Helena/1395-Grove-Ct-94574/home/12193657
+291,1250000,6,6,2700,"6,943",1413 2nd St,Calistoga,94515,Napa County,CA,https://www.redfin.com/CA/Calistoga/1413-2nd-St-94515/home/12195857
+292,1595000,2,2,1288,517492.8,1405 Soda Canyon Rd,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/1405-Soda-Canyon-Rd-94558/home/12205667
+293,1249000,3,2,1441,"8,943",2539 Rollingwood Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2539-Rollingwood-Dr-94558/home/12206590
+294,249999,4,2,1778,15246.0,230 Lariat St,Pope Valley,94567,Napa County,CA,https://www.redfin.com/CA/Pope-Valley/230-Lariat-St-94567/home/12197524
+295,260000,2,2,960,N/A,505 Sherry S,Calistoga,94515,Napa County,CA,https://www.redfin.com/CA/Calistoga/505-Sherry-S-94515/home/12222905
+296,299000,2,2,1056,N/A,42 Falcon Crest Cir,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/42-Falcon-Crest-Cir-94558/home/12223398
+297,3975000,3,3,2602,43560.0,1458 Saint Helena Hwy S,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/Saint-Helena/1458-Saint-Helena-Hwy-S-94574/home/12200453
+298,785000,6,3,1907,"5,846",3577 Beckworth Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/3577-Beckworth-Dr-94558/home/12185974
+299,975000,2,2,1226,103237.2,2730 Monticello Rd,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2730-Monticello-Rd-94558/home/12201023
+300,487500,3,2.5,1768,12196.8,1030 Arroyo Linda Ct,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/1030-Arroyo-Linda-Ct-94558/home/12198252
+301,829000,3,2,1243,"5,502",2316 Roberto St,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2316-Roberto-St-94558/home/12208374
+302,441000,2,2,1536,N/A,21 Los Robles Ct,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/St-Helena/21-Los-Robles-Ct-94574/home/190694712
+303,5650000,4,4,3144,11325.6,1242 Allyn Ave,St. Helena,94574,Napa County,CA,https://www.redfin.com/CA/Saint-Helena/1242-Allyn-Ave-94574/home/167257465
+304,619000,3,2,1176,N/A,48 Belvedere Ct,Napa,94559,Napa County,CA,https://www.redfin.com/CA/Napa/48-Belvedere-Ct-94559/home/12213863
+305,935000,4,2.5,2004,"5,998",4406 Moffitt Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/4406-Moffitt-Dr-94558/home/12202141
+306,834500,3,2,1334,"6,436",3142 Linda Vista Ave,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/3142-Linda-Vista-Ave-94558/home/12207697
+307,329000,3,2,1200,N/A,244 American Canyon Rd #128,American Canyon,94503,Napa County,CA,https://www.redfin.com/CA/American-Canyon/244-American-Canyon-Rd-94503/unit-128/home/190686541
+308,1595000,4,3,2878,"7,919",34 Joshua Ct,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/34-Joshua-Ct-94558/home/12222139
+309,2995000,5,4,2631,104979.6,1006 Bale Ln,Calistoga,94515,Napa County,CA,https://www.redfin.com/CA/Calistoga/1006-Bale-Ln-94515/home/12198636
+310,649000,2,1,1000,"2,574",469 Adams St,Napa,94559,Napa County,CA,https://www.redfin.com/CA/Napa/469-Adams-St-94559/home/12190262
+311,16880000,4,4.5,4712,936975.6,40 Auberge Rd,Rutherford,94573,Napa County,CA,https://www.redfin.com/CA/St-Helena/40-Auberge-Rd-94574/home/12200486
+312,899000,4,2,1312,"7,342",111 Karen Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/111-Karen-Dr-94558/home/12206328
+313,1975000,4,3,2730,11761.2,152 Foothill Blvd,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/152-Foothill-Blvd-94558/home/12189585
+314,898000,3,2,1410,"7,214",1030 Napa St,Napa,94559,Napa County,CA,https://www.redfin.com/CA/Napa/1030-Napa-St-94559/home/12187476
+315,499000,3,2,1316,"9,147",156 Fieldstone Way,Vallejo,94589,Napa County,CA,https://www.redfin.com/CA/Vallejo/156-Fieldstone-Way-94589/home/2278233
+316,1400000,4,3,1838,13503.6,1444 Sierra Ave,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/1444-Sierra-Ave-94558/home/12203383
+317,1150000,4,3,2307,"7,170",3324 Anita Ct,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/3324-Anita-Ct-94558/home/12206854
+318,3400000,4,3.5,3280,439956.0,2231 1st Ave,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2231-1st-Ave-94558/home/12224768
+319,710000,3,1,1106,"7,527",2224 Delpha Dr,Napa,94558,Napa County,CA,https://www.redfin.com/CA/Napa/2224-Delpha-Dr-94558/home/12208133
+320,1050000,3,2,1684,"8,400",2222 Cummings Dr,Santa Rosa,95404,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/2222-Cummings-Dr-95404/home/2616894
+321,675000,3,2.5,1319,"7,680",8090 Park Ave,Forestville,95436,Sonoma County,CA,https://www.redfin.com/CA/Forestville/8090-Park-Ave-95436/home/185946129
+322,979950,6,4,2592,"7,876",5095 Roma St,Santa Rosa,95409,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/5095-Roma-St-95409/home/2634750
+323,220000,3,2,1344,N/A,8147 Willow St,Windsor,95492,Sonoma County,CA,https://www.redfin.com/CA/Windsor/8147-Willow-St-95492/home/40537920
+324,839000,1,1.5,893,28314.0,326 Westerly Close,The Sea Ranch,95497,Sonoma County,CA,https://www.redfin.com/CA/The-Sea-Ranch/326-Westerly-Close-95497/home/2579384
+325,745000,2,1.5,1256,"5,525",16325 4th St,Guerneville,95446,Sonoma County,CA,https://www.redfin.com/CA/Guerneville/16325-4th-St-95446/home/2426373
+326,1395000,4,2.5,2433,19166.4,9559 Vancouver Ln,Windsor,95492,Sonoma County,CA,https://www.redfin.com/CA/Windsor/9559-Vancouver-Ln-95492/home/2603678
+327,1595000,3,3,1621,49222.8,8291 Highway 128,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/8291-Highway-128-95448/home/2511022
+328,1995000,4,2,2178,595465.2,5175 Hall Rd,Santa Rosa,95401,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/5175-Hall-Rd-95401/home/2508733
+329,625000,2,1.5,1138,"2,375",18080 Myrtle Ave,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/18080-Myrtle-Ave-95476/home/2393184
+330,5495000,3,3,2400,39204.0,383 Bridle Path,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/383-Bridle-Path-95448/home/17965957
+331,2950000,4,4,4126,88862.4,100 Eastman Ct,Petaluma,94952,Sonoma County,CA,https://www.redfin.com/CA/Petaluma/100-Eastman-Ct-94952/home/2272613
+332,6650000,5,7,5147,136342.8,1230 Fowler Creek Rd,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/1230-Fowler-Creek-Rd-95476/home/2381400
+333,750000,3,2,1040,"6,199",1516 Oakleaf Ave,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/1516-Oakleaf-Ave-95448/home/2140901
+334,925000,3,2,1248,"6,000",590 Andrieux St,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/590-Andrieux-St-95476/home/2260645
+335,685000,2,1.5,1146,N/A,168 Blue Wing Dr,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/168-Blue-Wing-Dr-95476/home/2465562
+336,761000,3,2,N/A,"5,502",14847 Old Cazadero Rd,Guerneville,95446,Sonoma County,CA,https://www.redfin.com/CA/Guerneville/14847-Old-Cazadero-Rd-95446/home/2433269
+337,447000,2,1,653,"3,202",21919 Russian River Ave,Monte Rio,95462,Sonoma County,CA,https://www.redfin.com/CA/Monte-Rio/21919-Russian-River-Ave-95462/home/190719942
+338,675000,4,2,2012,"8,281",831 Mcminn Ave #833,Santa Rosa,95407,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/831-McMinn-Ave-95407/unit-833/home/190719179
+339,875000,3,2,1344,33105.6,5132 Warm Springs Rd,Glen Ellen,95442,Sonoma County,CA,https://www.redfin.com/CA/Glen-Ellen/5132-Warm-Springs-Rd-95442/home/2386949
+340,650000,4,2,1860,"8,280",827 Mcminn Ave W #829,Santa Rosa,95407,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/827-McMinn-Ave-95407/unit-829/home/190719178
+341,1900000,5,4,4311,44431.2,31211 NE Highway 128 Hwy,Cloverdale,95425,Sonoma County,CA,https://www.redfin.com/CA/Cloverdale/31211-Highway-128-95425/home/2484440
+342,399500,3,2,1600,N/A,52 W Portola Cir W,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/52-Portola-Cir-95476/home/190719177
+343,1700000,4,2,1791,"3,720",508 College St,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/508-College-St-95448/home/2135224
+344,749000,3,2,1400,"9,200",5355 Evonne Ave,Rohnert Park,94928,Sonoma County,CA,https://www.redfin.com/CA/Rohnert-Park/5355-Evonne-Ave-94928/home/2548603
+345,2495000,2,2,1134,69696.0,6011 W Dry Creek Rd,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/6011-W-Dry-Creek-Rd-95448/home/2463993
+346,995000,4,3,1562,10018.8,18359 Clayton Ave,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/18359-Clayton-Ave-95476/home/2377818
+347,1111000,3,2,1111,"5,001",111 Fetters Ave,Sonoma,95476,Sonoma County,CA,https://www.redfin.com/CA/Sonoma/111-Fetters-Ave-95476/home/2392032
+348,1125000,3,3,1922,20908.8,136 Mark West Station Rd,Windsor,95492,Sonoma County,CA,https://www.redfin.com/CA/Windsor/136-Mark-West-Station-Rd-95492/home/2403147
+349,399000,2,2,910,N/A,113 Elbridge Ave Unit A,Cloverdale,95425,Sonoma County,CA,https://www.redfin.com/CA/Cloverdale/113-Elbridge-Ave-95425/unit-A/home/2486430
+350,944900,4,2.5,2421,"7,000",251 Fauna Ave,Rohnert Park,94928,Sonoma County,CA,https://www.redfin.com/CA/Rohnert-Park/251-Fauna-Ave-94928/home/2589782
+351,883000,3,2,1757,"8,438",308 La Quinta Dr,Windsor,95492,Sonoma County,CA,https://www.redfin.com/CA/Windsor/308-La-Quinta-Dr-95492/home/2602357
+352,729000,3,2,1155,"6,000",208 Yates Dr,Santa Rosa,95405,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/208-Yates-Dr-95405/home/2218520
+353,1699950,0,1,1660,22215.6,733 Healdsburg Ave,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/733-Healdsburg-Ave-95448/home/2133118
+354,315000,4,2,1495,845064.0,207 Magnolia Ave,Santa Rosa,95407,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/207-Magnolia-Ave-95407/home/40537786
+355,769000,3,2,1443,"2,614",813 Sparrow Ct,Healdsburg,95448,Sonoma County,CA,https://www.redfin.com/CA/Healdsburg/813-Sparrow-Ct-95448/home/2461996
+356,1795000,3,3.5,3472,94525.2,4777 Hessel Rd,Sebastopol,95472,Sonoma County,CA,https://www.redfin.com/CA/Sebastopol/4777-Hessel-Rd-95472/home/2411274
+357,399000,2,1,848,N/A,97 Nicholas Ct,Cotati,94931,Sonoma County,CA,https://www.redfin.com/CA/Cotati/97-Nicholas-Ct-94931/home/2553926
+358,675000,0,1,2300,37461.6,14355 School St,Valley Ford,94972,Sonoma County,CA,https://www.redfin.com/CA/Valley-Ford/14355-School-ST-Unknown/home/190712602
+359,1200000,4,1.5,2039,"6,125",1625 Austin Way,Santa Rosa,95404,Sonoma County,CA,https://www.redfin.com/CA/Santa-Rosa/1625-Austin-Way-95404/home/2622547
+360,399000,2,2,1625,N/A,4425 Clares #71,Capitola,95010,santaCruz County,CA,https://www.redfin.com/CA/Capitola/4425-Clares-St-95010/unit-71/home/17310750
+361,1875000,6,5,3165,"8,059",204 & 206 Hubbard St,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/204-Hubbard-St-95060/home/2168041
+362,435000,2,2,1332,N/A,2395 Delaware Ave #79,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/2395-Delaware-Ave-95060/unit-79/home/52342430
+363,1199999,3,2,1752,21344.4,750 Tie Gulch Rd,Santa Cruz,95065,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/750-Tie-Gulch-Rd-95065/home/2408845
+364,855000,2,1,852,13068.0,243 Hayward Rd,Aptos,95003,santaCruz County,CA,https://www.redfin.com/CA/Aptos/243-Hayward-Rd-95003/home/2302833
+365,1295000,3,3,2371,196891.2,26150 Pierce Rd,Los Gatos,95033,santaCruz County,CA,https://www.redfin.com/CA/Los-Gatos/26150-Pierce-Rd-95033/home/2401385
+366,1249000,4,2.5,1655,"3,354",33 Silver Birch Ln,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/33-Silver-Birch-Ln-95066/home/2219871
+367,1449000,4,2.5,2167,"8,930",375 Lee St,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/375-Lee-St-95060/home/2169110
+368,2750000,4,3,2400,866844.0,1205 Roberts Rd,Ben Lomond,95005,santaCruz County,CA,https://www.redfin.com/CA/Ben-Lomond/1205-Roberts-Rd-95005/home/2379150
+369,1299000,5,3,3132,47916.0,40 Linden Rd,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/40-Linden-Rd-95076/home/2330008
+370,1600000,6,3,986,17859.6,1410 17th Ave,Santa Cruz,95062,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/1410-17th-Ave-95062/home/2257857
+371,425000,2,1,840,N/A,2711 Mar Vista Dr #39,Aptos,95003,santaCruz County,CA,https://www.redfin.com/CA/Aptos/2711-Mar-Vista-Dr-95003/unit-39/home/40241452
+372,815000,2,1,860,"1,481",3002 Buckingham Ln #17,Santa Cruz,95062,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/3002-Buckingham-Ln-95062/unit-17/home/2263457
+373,675000,3,2,1394,133729.2,234 Dorrance Rd,Boulder Creek,95006,santaCruz County,CA,https://www.redfin.com/CA/Boulder-Creek/234-Dorrance-Rd-95006/home/2395876
+374,2585000,3,3,1902,"6,534",106 Arroyo Ct,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/106-Arroyo-Ct-95060/home/2133550
+375,1399000,2,2,1423,"9,322",730 San Juan Ave,Santa Cruz,95065,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/730-San-Juan-Ave-95065/home/2171954
+376,1250000,2,1,742,"4,487",500 26th Ave,Santa Cruz,95062,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/500-26th-Ave-95062/home/2252033
+377,1100000,3,2.5,1410,"1,742",1509 Tera Ct,Capitola,95010,santaCruz County,CA,https://www.redfin.com/CA/Capitola/1509-Tera-Ct-95010/home/168933267
+378,365000,2,1,962,N/A,375 Clifford Ave #312,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/375-Clifford-Ave-95076/unit-312/home/2198610
+379,1095000,3,2,1992,"7,492",145 Condor Ave,Ben Lomond,95005,santaCruz County,CA,https://www.redfin.com/CA/Ben-Lomond/145-Condor-Ave-95005/home/2365336
+380,2350000,3,2.5,1636,"7,579",100 Alta Vista Dr,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/100-Alta-Vista-Dr-95060/home/2131490
+381,1450000,2,2.5,1422,"3,006",780 Seacliff Dr,Seacliff,95003,santaCruz County,CA,https://www.redfin.com/CA/Aptos/780-Seacliff-Dr-95003/home/17310664
+382,2400000,3,2,1864,17424.0,162 Hagemann Ave,Santa Cruz,95062,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/162-Hagemann-Ave-95062/home/2186451
+383,6495000,3,2.5,2152,15681.6,50 Hillview Way,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/50-Hillview-Way-95076/home/12308385
+384,1975000,5,4,2520,84070.8,327 SOUTHWOOD Dr,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/327-Southwood-Dr-95066/home/2233591
+385,2147000,4,4.5,2907,12196.8,16 Escuela Rd,La Selva Beach,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/16-Escuela-Rd-95076/home/2320550
+386,2249000,5,5,2002,64033.2,420 Aurora Rd,Soquel,95073,santaCruz County,CA,https://www.redfin.com/CA/Soquel/420-Aurora-Rd-95073/home/12308709
+387,739000,2,2,1292,N/A,319 Broadway Unit A2,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/319-Broadway-95060/unit-A2/home/2158351
+388,825000,3,2,1146,264844.8,1265 Eureka Canyon Rd,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/1265-Eureka-Canyon-Rd-95076/home/2418935
+389,649000,2,1,1162,"7,100",1017 East Lake Ave,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/1017-E-Lake-Ave-95076/home/2215742
+390,899000,5,3,2000,49658.4,7002 Highway 17,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/7002-Highway-17-95066/home/2228689
+391,1649000,3,2,1922,10018.8,7 Purple Hills Ct,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/7-Purple-Hills-Ct-95066/home/2229685
+392,2295000,3,2,2381,446925.6,752 Glen Canyon Rd,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/752-Glen-Canyon-Rd-95060/home/2438556
+393,199000,2,1,668,"2,962",186 St Bernard St,Santa Cruz,95060,santaCruz County,CA,https://www.redfin.com/CA/Santa-Cruz/186-Saint-Bernard-St-95060/home/2348096
+394,3999000,3,3.5,1800,"1,802",757 The Shoreline,La Selva Beach,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/757-The-Shore-Line-95076/home/2323640
+395,889000,2,1.5,1280,14374.8,161 Dusty Dr,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/161-Dusty-Dr-95066/home/2360875
+396,1385000,3,2,1226,"5,053",509 Alta Dr,Aptos,95003,santaCruz County,CA,https://www.redfin.com/CA/Aptos/509-Alta-Dr-95003/home/2428046
+397,1395000,3,2,1230,"1,742",139 Bennett Rd,Aptos,95003,santaCruz County,CA,https://www.redfin.com/CA/Aptos/139-Bennett-Rd-95003/home/2309502
+398,875000,1,1,842,N/A,101 Shell Dr #247,Watsonville,95076,santaCruz County,CA,https://www.redfin.com/CA/Watsonville/101-Shell-Dr-95076/unit-247/home/2432246
+399,568000,2,2,1440,N/A,552 Bean Creek Rd #70,Scotts Valley,95066,santaCruz County,CA,https://www.redfin.com/CA/Scotts-Valley/552-Bean-Creek-Rd-95066/unit-70/home/17312969
+400,649000,2,1,998,"6,199",903 1st St,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/903-1-St-95045/home/14976398
+401,839000,2,1,900,217800.0,200 Chateau Dr,Aromas,95004,sanBenito County,CA,https://www.redfin.com/CA/Aromas/200-Chateau-Dr-95004/home/54212258
+402,2350000,4,4,5052,217800.0,721 Riverside Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/721-Riverside-Rd-95023/home/176198160
+403,679000,3,2,1600,"8,281",840 South St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/840-South-St-95023/home/14972387
+404,1061795,4,3.5,3140,10454.4,190 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/190-Scarlett-Way-95023/home/187318167
+405,1011700,4,3.5,2954,"9,640",120 Kingsley Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/120-Kingsley-DR-95023/home/190694162
+406,993830,4,3,2672,11761.2,110 Kinsley Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/110-Kinsley-Dr-95023/home/187318150
+407,1060375,4,3.5,3249,"9,298",113 Kingsley Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/113-Kingsley-DR-95023/home/190692651
+408,946990,4,3,2456,"9,532",123 Kingsley Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/123-Kingsley-DR-95023/home/190692468
+409,675800,4,2,1800,"6,769",1450 King Cir,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1450-King-Cir-95023/home/14966165
+410,745814,3,2,1901,N/A,1951 Rosemary Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1951-Rosemary-Dr-95023/home/181204755
+411,835891,5,3,2496,N/A,2001 Brighton Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2001-Brighton-Dr-95023/home/181204873
+412,1385000,3,3,2700,222591.6,421 Arroyo Seco Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/421-Arroyo-Seco-Dr-95023/home/14976291
+413,989000,4,2.5,3257,"5,729",1041 Cabrillo Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1041-Cabrillo-Dr-95023/home/110033558
+414,850000,4,2.5,2243,"9,387",921 Hillock Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/921-Hillock-Ct-95023/home/14963715
+415,540000,2,1,1000,"3,001",35 South St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/35-South-St-95023/home/14971875
+416,800000,4,2,2040,10454.4,278 Marks Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/278-Marks-Dr-95023/home/14973816
+417,599888,2,2,1607,"2,052",41 Joes Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/41-Joes-Ln-95023/home/14970810
+418,650000,3,2,1740,"5,162",621 Walnut Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/621-Walnut-Ln-95023/home/14972957
+419,889900,4,2.5,2419,"7,251",1641 Albion Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1641-Albion-Ct-95023/home/14965644
+420,625000,3,1.5,1440,128502.0,717 Snyder Ave,Aromas,95004,sanBenito County,CA,https://www.redfin.com/CA/Aromas/717-Snyder-Ave-95004/home/14975660
+421,845000,4,2.5,2335,"7,275",1401 Mesquite Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1401-Mesquite-Dr-95023/home/23060254
+422,792356,5,3,2538,"3,709",2160 Gladiola Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2160-Gladiola-Dr-95023/home/187318540
+423,1499000,2,1.5,1200,609840.0,3005 Coppa Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/3005-Coppa-Ct-95023/home/187317919
+424,1690000,4,2.5,2745,519235.2,270 Hidden Valley Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/270-Hidden-Valley-Rd-95023/home/14974009
+425,1750000,4,2,2300,217800.0,381 Morada Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/381-Morada-Ln-95023/home/14976134
+426,723000,3,2.5,2055,"7,000",1410 Ghione Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1410-Ghione-Dr-95023/home/14965914
+427,1058000,3,1.5,1078,1263240.0,5101 Southside Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/5101-Southside-Rd-95023/home/190642471
+428,1195000,4,2,2248,43560.0,541 Lemos Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/541-Lemos-Ct-95023/home/14975378
+429,780955,4,3,2350,N/A,2011 Brighton Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2011-Brighton-Dr-95023/home/181204871
+430,918205,5,4,3230,N/A,1980 Rosemary Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1980-Rosemary-Dr-95023/home/181204773
+431,749473,4,2,1962,N/A,1970 Rosemary Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1970-Rosemary-Dr-95023/home/181204771
+432,899000,4,3,2208,"4,098",1321 Cavalier Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1321-Cavalier-Ct-95023/home/173508639
+433,650000,2,2.5,2000,"2,718",877 Helen Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/877-Helen-Dr-95023/home/14974691
+434,1075000,5,3.5,2766,"6,999",685 Appaloosa Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/685-Appaloosa-Way-95023/home/173507530
+435,941315,4,3,2456,10454.4,181 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/181-Scarlett-Way-95023/home/187318153
+436,1115230,4,3.5,3249,16117.2,191 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/191-Scarlett-Way-95023/home/187318152
+437,250000,2,2,1440,N/A,182 Elm Dr #182,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/182-Elm-Dr-95023/unit-182/home/190591408
+438,635000,2,1,890,"5,001",306 7th St,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/306-7th-St-95045/home/14976020
+439,789000,3,2.5,2450,10890.0,680 Ridgemark Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/680-Ridgemark-Dr-95023/home/14974410
+440,2700000,4,3,3000,1958457.6,1860 Salinas Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/1860-Salinas-Rd-95045/home/14966903
+441,1299000,N/A,N/A,N/A,N/A,653 South St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/653-South-St-95023/home/14973072
+442,732402,3,2,1662,N/A,2021 Brighton Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2021-Brighton-Dr-95023/home/181204870
+443,1850000,4,3,3569,241758.0,50 Brown Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/50-Brown-Rd-95045/home/14975589
+444,785900,3,2,1890,"6,000",120 Marguerite Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/120-Marguerite-Dr-95023/home/14965112
+445,824900,3,2,1900,10890.0,6900 F St,Tres Pinos,95075,sanBenito County,CA,https://www.redfin.com/CA/Tres-Pinos/6900-F-St-95075/home/14973573
+446,685000,3,2,1300,"5,998",1890 Clearview Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1890-Clearview-Dr-95023/home/14969073
+447,974060,4,3,2456,N/A,151 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/151-Scarlett-Way-95023/home/187318156
+448,879000,4,2,2016,"7,505",95 Los Altos Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/95-Los-Altos-Dr-95023/home/110033688
+449,895000,4,3,2209,"6,054",2740 Glenview Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2740-Glenview-Dr-95023/home/176198991
+450,1050000,5,3.5,2651,"7,168",3076 Palomino Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/3076-Palomino-Way-95023/home/173507551
+451,1308000,3,3,2873,217800.0,5161 Southside Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/5161-Southside-Rd-95023/home/110033582
+452,744900,4,2.5,1909,"3,864",1197 Walker Peak Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1197-Walker-Peak-Way-95023/home/185373865
+453,490000,2,2.5,1236,"1,259",170 Gibson Dr #23,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/170-Gibson-Dr-95023/unit-23/home/14972708
+454,710000,3,2,1472,"6,000",1940 Marigold St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1940-Marigold-St-95023/home/187318518
+455,999000,3,2,1670,"8,999",111 Donald Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/111-Donald-Dr-95023/home/14974353
+456,871001,5,3,2790,N/A,1861 Lilac Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1861-Lilac-Ct-95023/home/181204643
+457,719000,5,3,2155,"6,255",101 Beresini Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/101-Beresini-Ln-95023/home/14964196
+458,759000,3,2,1724,"6,826",851 Apricot Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/851-Apricot-Ln-95023/home/14972073
+459,839000,4,3,1800,"5,101",420 Bridgevale Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/420-Bridgevale-Rd-95023/home/14973538
+460,1080000,3,2.5,2307,21780.0,331 Tierra Del Sol,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/331-Tierra-del-Sol-95023/home/14974638
+461,749000,4,2.5,1225,"6,434",840 Washington St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/840-Washington-St-95023/home/14971888
+462,845185,4,3,2330,"8,550",170 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/170-Scarlett-Way-95023/home/187318165
+463,1022525,4,3.5,2954,"8,743",171 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/171-Scarlett-Way-95023/home/187318154
+464,733418,3,2.5,2017,"3,210",2190 Gladiola Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2190-Gladiola-Dr-95023/home/187318543
+465,861021,5,3,2518,"5,500",2071 Fuchsia Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2071-Fuchsia-Dr-95023/home/187318465
+466,849000,4,2.5,2496,12632.4,561 Donald Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/561-Donald-Dr-95023/home/14973839
+467,833538,4,3,2266,"5,500",2101 Fuchsia Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2101-Fuchsia-Dr-95023/home/187318468
+468,760000,3,2,1700,"4,999",1124 Cabrillo Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1124-Cabrillo-Dr-95023/home/110033791
+469,1500000,0,N/A,N/A,N/A,0 Miller Canal,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/0-Miller-Rd-95023/home/190350108
+470,739000,3,2,2000,"6,199",1680 Sausalito Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1680-Sausalito-Dr-95023/home/14965204
+471,1398000,3,2,2177,96703.2,6800 San Juan Canyon Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/6800-San-Juan-Canyon-Rd-95045/home/14970460
+472,470000,2,1.5,1086,536,801 Nash Rd Unit B9,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/801-Nash-Rd-95023/unit-B9/home/14972834
+473,1089405,4,4,2954,N/A,183 Vienna Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/183-Vienna-Way-95023/home/187318174
+474,1011700,4,4,2954,N/A,160 Scarlett Way,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/160-Scarlett-Way-95023/home/187318164
+475,752705,3,2.5,2017,N/A,2091 Daisy Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2091-Daisy-Dr-95023/home/187318488
+476,762000,3,2.5,1805,"6,344",1941 Marigold St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1941-Marigold-St-95023/home/187318522
+477,955000,5,3,2833,"6,000",2041 Rosewood Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/2041-Rosewood-Dr-95023/home/176199057
+478,899000,4,3,3000,10454.4,265 Bonnie Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/265-Bonnie-Ln-95023/home/14974535
+479,725000,3,2,1128,"6,504",250 Lassen Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/250-Lassen-Ct-95023/home/14969820
+480,799990,3,3,1990,N/A,Plan 5 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-5/home/189120240
+481,829990,4,3,2330,N/A,Plan 6 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-6/home/189120237
+482,1589000,5,3.5,4060,477853.2,385 Hitch Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/385-Hitch-Dr-95023/home/14974012
+483,559000,1,1,945,N/A,400 San Benito St #303,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/400-San-Benito-St-95023/unit-303/home/189039314
+484,949000,4,4,2440,"4,944",814 Prospect Ave,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/814-Prospect-Ave-95023/home/14965136
+485,1700000,3,1,1918,N/A,Sign in for address,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Union-Rd-95023/home/23471351
+486,519000,2,1,975,N/A,400 San Benito St #212,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/400-San-Benito-St-95023/unit-212/home/188941079
+487,790000,5,3,2867,"6,299",1830 Carousel Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1830-Carousel-Dr-95023/home/14963698
+488,479000,1,1,942,N/A,400 San Benito St #207,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/400-San-Benito-St-95023/unit-207/home/188465790
+489,883500,4,3,2374,"5,100",431 Cobalt Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/431-Cobalt-Dr-95023/home/143388553
+490,699000,3,2,1675,10018.8,812 Powell St,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/812-Powell-St-95023/home/14965986
+491,789900,3,2,1675,N/A,The Carmel Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Carmel/home/188293895
+492,709880,3,2,1662,N/A,Residence 1 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Residence-1/home/188289648
+493,899900,4,3,2698,N/A,The Capitola Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Capitola/home/188302240
+494,919990,4,3,2456,N/A,Plan 1 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-1/home/188416961
+495,819900,3,2.5,1850,N/A,The Pismo Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Pismo/home/188301435
+496,1019990,4,4,3249,N/A,Plan 4 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-4/home/188407572
+497,838880,5,3,2790,N/A,Residence 3 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Residence-3/home/188290124
+498,849900,4,2,2003,N/A,The Monterey Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Monterey/home/188309784
+499,1009990,4,4,3140,N/A,Plan 3 Alt Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-3-Alt/home/188411834
+500,775000,2,2,1730,N/A,Armsby Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Armsby/home/188406522
+501,739900,4,3,1909,N/A,The Newport Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Newport/home/188271357
+502,909900,4,3,2460,N/A,The Big Sur Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Big-Sur/home/188393035
+503,729900,3,3,1807,N/A,The Ventura Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Ventura/home/188272777
+504,800000,2,2,1902,N/A,Griffin Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Griffin/home/188391562
+505,959990,4,3,2672,N/A,Plan 1 Alt Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-1-Alt/home/188397499
+506,745000,2,2,1579,N/A,Royal Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Royal/home/188389469
+507,894880,5,4,3230,N/A,Residence 4 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Residence-4/home/188292116
+508,699900,3,3,1664,N/A,The Solana Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/The-Solana/home/188281147
+509,728880,4,2,1962,N/A,Residence 2 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Residence-2/home/188291124
+510,820000,2,2.5,2011,N/A,Fairview Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Fairview/home/188377767
+511,954990,4,3,2674,N/A,Plan 2 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-2/home/188376614
+512,969990,4,4,2954,N/A,Plan 3 Plan,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Hollister/Plan-3/home/188376048
+513,479000,1,1,975,N/A,400 San Benito St #209,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/400-San-Benito-St-95023/unit-209/home/183065179
+514,539000,2,1,975,N/A,400 San Benito St #201,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/400-San-Benito-St-95023/unit-201/home/183046047
+515,3550000,5,6,4276,2901967.2,1011 Santa Ana Valley Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1011-Santa-Ana-Valley-Rd-95023/home/185467400
+516,1650000,4,4,3662,216057.6,6400 Vineyard Estates Dr,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/6400-Vineyard-Estates-Dr-95023/home/14970133
+517,3900000,N/A,N/A,N/A,N/A,333 Mission Vineyard Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/333-Mission-Vineyard-Rd-95045/home/21973421
+518,839000,4,2.5,2178,"3,932",1590 Bundeson Cir #3,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1590-Bundeson-Dr-95023/unit-3/home/187329356
+519,3299800,5,5,5450,5602687.2,3000 San Juan Canyon Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/3000-San-Juan-Canyon-Rd-95045/home/18998192
+520,7500000,N/A,N/A,5000,N/A,325  377 N Chappell Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/377-N-Chappell-Rd-95023/home/173508446
+521,599999,N/A,N/A,N/A,N/A,0 Airline Hwy,Tres Pinos,95075,sanBenito County,CA,https://www.redfin.com/CA/Tres-Pinos/0-Airline-Hwy-95075/home/145584042
+522,649800,N/A,N/A,23.82,N/A,0 Southside Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Southside-Rd-95023/home/14975158
+523,1500000,N/A,N/A,48.76,N/A,7663 Frazier Lake Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/7663-Frazier-Lake-Rd-95023/home/190554776
+524,1500000,N/A,N/A,302.17,N/A,0 Lake Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Lake-Rd-95023/home/40037593
+525,1200000,N/A,N/A,35.80,N/A,35.8 Acres Panoche Rd,Paicines,95043,sanBenito County,CA,https://www.redfin.com/CA/Paicines/35-8-Acres-Panoche-Rd-Unknown/home/190142522
+526,115000,N/A,N/A,1.00,N/A,1 Acre Panoche Rd,Paicines,95043,sanBenito County,CA,https://www.redfin.com/CA/Paicines/1-Acre-Panoche-Rd-Unknown/home/189551200
+527,2050000,N/A,N/A,73.00,N/A,00 Brookhollow Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Unknown/Brookhollow-Rd-95023/home/150616607
+528,1249000,N/A,N/A,14.89,N/A,8241 Lovers Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/8241-Lovers-Ln-95023/home/188968804
+529,675000,N/A,N/A,4.20,N/A,1094 Kennedy Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/1094-Kennedy-Ct-95023/home/146671188
+530,1599888,N/A,N/A,67.29,N/A,0 Pacheco Pass Hwy,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/HOLLISTER/0-Pacheco-Pass-HWY-95023/home/187240372
+531,674950,N/A,N/A,4.92,N/A,1212 Kennedy Ct,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Unknown-95023/home/146671262
+532,3490000,N/A,N/A,30.07,N/A,8231 Lovers Ln,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/8231-Lovers-Ln-95023/home/187932627
+533,849999,N/A,N/A,15.68,N/A,443A Alexander Ln,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/443-Alexander-Ln-95045/home/186921347
+534,1999900,N/A,N/A,479.59,N/A,20505 Coalinga Rd,Paicines,95043,sanBenito County,CA,https://www.redfin.com/CA/Paicines/20505-Coalinga-Rd-95043/home/179055830
+535,699995,N/A,N/A,17.75,N/A,363 Orchard Hill Rd,San Juan Bautista,95045,sanBenito County,CA,https://www.redfin.com/CA/San-Juan-Bautista/363-Orchard-Hill-Rd-95045/home/78604701
+536,250000,N/A,N/A,0.71,N/A,0 Airline Hwy,Tres Pinos,95075,sanBenito County,CA,https://www.redfin.com/CA/Tres-Pinos/Airline-Hwy-95075/home/23056238
+537,195000,N/A,N/A,0.24,N/A,0 San Juan Rd,Hollister,95023,sanBenito County,CA,https://www.redfin.com/CA/Hollister/Ca-156-Br-95023/home/23056236
